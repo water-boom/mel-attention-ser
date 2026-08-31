@@ -1,0 +1,58 @@
+{
+  "0": {
+    "emotion": "neutral",
+    "f0_mean_hz": 151.7,
+    "rms_db": -46.90,
+    "log_f0_std": 0.207,
+    "description": "平稳，基频低，能量适中"
+  },
+  "1": {
+    "emotion": "calm",
+    "f0_mean_hz": 149.8,
+    "rms_db": -48.79,
+    "log_f0_std": 0.183,
+    "description": "语速缓慢，极度低沉平缓，起伏最小"
+  },
+  "2": {
+    "emotion": "happy",
+    "f0_mean_hz": 207.9,
+    "rms_db": -35.92,
+    "log_f0_std": 0.278,
+    "description": "高音调，能量充沛，音调起伏大"
+  },
+  "3": {
+    "emotion": "sad",
+    "f0_mean_hz": 184.5,
+    "rms_db": -44.31,
+    "log_f0_std": 0.224,
+    "description": "能量微弱，音调起伏小，暗淡"
+  },
+  "4": {
+    "emotion": "angry",
+    "f0_mean_hz": 218.0,
+    "rms_db": -30.35,
+    "log_f0_std": 0.290,
+    "description": "极高能量，高音调，声带紧绷，能量最强"
+  },
+  "5": {
+    "emotion": "fearful",
+    "f0_mean_hz": 233.9,
+    "rms_db": -34.97,
+    "log_f0_std": 0.244,
+    "description": "音调极高，气息急促不稳"
+  },
+  "6": {
+    "emotion": "disgust",
+    "f0_mean_hz": 167.3,
+    "rms_db": -41.89,
+    "log_f0_std": 0.258,
+    "description": "音调偏低，拖音与咽音共鸣"
+  },
+  "7": {
+    "emotion": "surprised",
+    "f0_mean_hz": 209.4,
+    "rms_db": -39.18,
+    "log_f0_std": 0.325,
+    "description": "音调突变跳跃，动态范围极大，起伏最大"
+  }
+}

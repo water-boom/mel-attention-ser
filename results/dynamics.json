@@ -1,0 +1,5579 @@
+{
+  "cnn_base": [
+    {
+      "fold": 0,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    }
+  ],
+  "cnn_se": [
+    {
+      "fold": 0,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        }
+      ]
+    }
+  ],
+  "cnn_coord": [
+    {
+      "fold": 0,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 1.0
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 1.0
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    }
+  ],
+  "cnn_mhap": [
+    {
+      "fold": 0,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9822249787194388
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9530183042798723
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.948512956074306
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9363789967128209
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9368601475443159
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9243280155318124
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9147479346820286
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.8973866598946708
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.8871844376836504
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.8751633814402989
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.8648853455271039
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8396246893065317
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.812727553503854
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.7911466377122062
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.7765742915017264
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.7618672813688006
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.7467878188405718
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.7329407215118409
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.7195515734808785
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.6992008652005877
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.6973202739443097
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.6903932009424482
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.6779205662863595
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.6790246656962804
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.670261984212058
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.6712217245783124
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.6711853504180908
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.6680616991860526
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.6657995138849531
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.6672571727207729
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.024574915319681166
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.02941019056098802
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.06149726871933256
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.08510782143899373
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0824559428862163
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.07262491509318351
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.08619878845555441
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.08734151061092105
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.11740921352590833
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.16750064619949886
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.1760065977062498
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.22340487922940935
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.265696953024183
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.2771114549466542
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.31149722933769225
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.31269839576312475
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.3094515647206988
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.30231784241540094
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.28720708404268536
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.2976884910038539
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.29938529176371437
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.3011125615664891
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.3077203401497432
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.31666115948132106
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.32280129534857616
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.3239851176738739
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.31750144703047617
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.3134146588189261
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.3131379016808101
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.3127645058291299
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9755583916391645
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9567135861941747
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9545024412018912
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9465833136013576
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9285231624330793
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9236367498125349
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9123478089060102
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.9144636869430542
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.9010564582688468
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.9023298672267369
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.8896647027560642
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8751725026539394
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8650665640830993
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.859307587146759
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8376966220991952
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.8300637262208121
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.8069248591150556
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.7933882253510611
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.7802273614065988
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.7651031817708697
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.7603418333189828
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.7473395773342677
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.7283321278435844
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.7295624647821699
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.7210837858063834
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.11188483062599386
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.2387552159173148
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.2598373532295227
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.30560086028916494
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.3596608638763428
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.31854818548474995
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.32293672731944495
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.3125064636979784
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.33004024880273003
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.33044312851769586
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.32296508891241893
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.34485195193971907
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.3565580725669861
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.34969201343400136
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.3552505271775382
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.3558993910040174
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.37292329839297705
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.38235046437808445
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.3828441194125584
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.39026492323194234
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.3883679040840694
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.39574345094817026
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.3865741559437343
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.3953284774507795
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.39101266179765976
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9807667170252119
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9652083975928171
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9607551676886422
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.953772793497358
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9446233153343201
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9344752601214817
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9368916852133614
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.923308663708823
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.9011044774736677
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.8890643392290388
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.8882045984268189
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8641443320683071
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8490525415965489
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.8467373899051122
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8218245318957738
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.8034617304801941
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.801769529070173
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.7912157075745719
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.784846728188651
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.7756166560309273
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.7586969103131975
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.7587819508143834
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.7502414533070155
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.748161838735853
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.7440544247627259
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.738835254737309
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.7362031323569161
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.7331428425652641
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.7338083982467651
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.7337056756019592
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0896419211689915
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.19987134422574723
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.21590412259101868
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.24299335607460568
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.26616514793464113
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.2792826282126563
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.2645969284432275
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.28597062017236435
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.30615103755678447
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.33286695991243637
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.3135747415678842
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.348503897019795
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.3421621995312827
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.3707261826310839
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.3930421037333352
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.40568577476910184
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.412458211183548
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.41623848846980505
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.41555244241441996
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.4471664215837206
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.4477090963295528
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.45500660453523906
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.45380972964423044
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.4649376060281481
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.46040273564202444
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.46495295166969297
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.46496438469205587
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.4580546157700675
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.4650834815842765
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.465719382252012
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.988173850945064
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9883536747523717
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.984715872151511
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9785127333232335
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.963781682082585
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.944644410269601
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9405730298587254
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.9358516199248178
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.9240000026566642
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.9151117086410523
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.9101833598954338
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.9015556693077087
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8887511542865209
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.8735766530036926
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8607603073120117
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.8441929204123361
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.8323144248553684
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.8221347723688398
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.8167781182697841
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.8071780664580209
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.7991808891296387
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.7959486808095659
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.7869003772735595
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.7812124984604972
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.774378388268607
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.7690318448202951
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.766487431526184
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.7624554208346775
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.7623659832136972
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.7625589030129569
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.03329485729336738
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.07485531270503998
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.10314902748380389
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.12320876824004309
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.19685385248490742
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.24545830488204956
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.25699264790330617
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.26438404108796804
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.27809909326689586
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.29185904690197534
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.2827764596257891
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.30921288090092797
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.3221744341509683
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.345956471988133
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.3523746703352247
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.380073424748012
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.3958213712487902
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.3906528328146253
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.39375170298985074
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.3935703481946673
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.40743383339473177
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.4145440697669983
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.4263319517884936
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.4295159944466182
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.4298502836908613
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.4314790861947196
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.4343581574303763
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.44041603803634644
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.4365244959081922
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.44064805677958896
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9873541094161369
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9808080019177617
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9791150060859887
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9745424196526811
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9686335131928727
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9621152249542443
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9579193978696257
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.9512983818311949
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.9485303904559161
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.9408680941607501
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.9341875234165707
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.9172211063874735
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.9018544474163571
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.8987841751124408
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8807307642859381
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.8646292106525318
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.8643446161940291
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.8607874271031972
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.839908102074185
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.8309450681145126
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.8220564239733928
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.8199736653147517
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.8142303953299651
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.8079753340901555
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.8006741227330388
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.7992999875867689
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.8016768210643047
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.03495943380167355
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.11406113529527509
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.1290539837366826
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.1426609963984103
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.18606828072586576
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.18972874231435158
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.1824355125427246
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.21280767909578374
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.2105522916929142
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.23403496597264264
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.24066424450358828
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.2526858384544785
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.2774174543651375
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.2599243159229691
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.26187974375647466
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.2637203069957527
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.27141807812291224
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.27550273489307714
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.30461663007736206
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.2967899715578234
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.3059302648982486
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.31076379966091466
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.3225017310799779
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.3195250718980222
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.32224408194825455
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.3316662617631861
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.3259761728144981
+        }
+      ]
+    }
+  ],
+  "cnn_asp": [
+    {
+      "fold": 0,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.952978811945234
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9287290505000523
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9057636737823487
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.8816475578716823
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.8326931374413626
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.8035872033664159
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.7903941478048052
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.7649637988635472
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.7522338679858617
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.7365448560033526
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.7159829446247645
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.6957141944340297
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.6900441425187247
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.6736714226858956
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.6787220426968166
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.6731786693845476
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.6625627432550703
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.6400333762168884
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.6398506454059056
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.6306175589561462
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.617629052911486
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.626425678389413
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.6254710521016802
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.6049779278891427
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.6095995017460414
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.6053037813731602
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.6080778428486415
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.6021165336881366
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.5975230693817138
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.5977002825055804
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9812953114509583
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9803537845611572
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9747726542609079
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9725196923528399
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9574312942368643
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9312373008046831
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.9105790427752903
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.8994129947253636
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.8786005650247847
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.8638723986489433
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.8618386575153896
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8283385072435652
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8120569944381714
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.804837327344077
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.7816516518592834
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.7851532799857003
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.7634668282100132
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.7671697752816337
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.7601102811949594
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.7473479577473232
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.7404430593763079
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9844220399856567
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9641791241509574
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9661474926131112
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.928211600439889
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9082709976605007
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.8721601009368897
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.851215956892286
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.8427838529859271
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.7964503117970058
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.7955387473106384
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.7638012562479292
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.7573501178196498
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.7469439012663704
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.7304160373551505
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.7050709996904646
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.7074135507856096
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.6982566850525992
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.6886182938303266
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.6726685115269252
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.662445078577314
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.654477858543396
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.6530015809195382
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.6405641674995423
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.6479634250913348
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.6359298484666007
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.6286881259509496
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.6322185329028538
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.6315166473388671
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.6313968811716352
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.6286511829921178
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9844393117087228
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9672329340662275
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.9661785279001508
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9506261570113046
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9180872866085598
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9195415752274649
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.8912525142942156
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.883633634022304
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.8835874148777553
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.8695087671279907
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.8588325279099601
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8634008526802063
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8525105765887669
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.8539897697312492
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8563052875655038
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.8591396365846906
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.8375172478812082
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.8394686153956822
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.8360291446958269
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.8218386019979205
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.8164526735033307
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.8188114898545401
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.8101492438997541
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.7993367859295436
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.793658309323447
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.7914087619100298
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.7885036196027483
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.7905213509287153
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.7895026479448591
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.7884928618158613
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "entropy_traj": [
+        {
+          "epoch": 1,
+          "normalized_entropy": 0.9811716273024276
+        },
+        {
+          "epoch": 2,
+          "normalized_entropy": 0.9698153798644608
+        },
+        {
+          "epoch": 3,
+          "normalized_entropy": 0.954138061484775
+        },
+        {
+          "epoch": 4,
+          "normalized_entropy": 0.9600046905311378
+        },
+        {
+          "epoch": 5,
+          "normalized_entropy": 0.9419668622919031
+        },
+        {
+          "epoch": 6,
+          "normalized_entropy": 0.9044500492714547
+        },
+        {
+          "epoch": 7,
+          "normalized_entropy": 0.8919183531322995
+        },
+        {
+          "epoch": 8,
+          "normalized_entropy": 0.8895749643042281
+        },
+        {
+          "epoch": 9,
+          "normalized_entropy": 0.8728188550150072
+        },
+        {
+          "epoch": 10,
+          "normalized_entropy": 0.8550909532083047
+        },
+        {
+          "epoch": 11,
+          "normalized_entropy": 0.85553409602191
+        },
+        {
+          "epoch": 12,
+          "normalized_entropy": 0.8329331439894598
+        },
+        {
+          "epoch": 13,
+          "normalized_entropy": 0.8291669423515732
+        },
+        {
+          "epoch": 14,
+          "normalized_entropy": 0.8325313506899653
+        },
+        {
+          "epoch": 15,
+          "normalized_entropy": 0.8117794136743288
+        },
+        {
+          "epoch": 16,
+          "normalized_entropy": 0.7858365838592117
+        },
+        {
+          "epoch": 17,
+          "normalized_entropy": 0.7928512531357843
+        },
+        {
+          "epoch": 18,
+          "normalized_entropy": 0.7902591888969009
+        },
+        {
+          "epoch": 19,
+          "normalized_entropy": 0.7839065693520211
+        },
+        {
+          "epoch": 20,
+          "normalized_entropy": 0.7803149497186815
+        },
+        {
+          "epoch": 21,
+          "normalized_entropy": 0.7800930915652095
+        },
+        {
+          "epoch": 22,
+          "normalized_entropy": 0.7593286407960428
+        },
+        {
+          "epoch": 23,
+          "normalized_entropy": 0.7630141457995853
+        },
+        {
+          "epoch": 24,
+          "normalized_entropy": 0.7565520293003803
+        },
+        {
+          "epoch": 25,
+          "normalized_entropy": 0.7533664155650783
+        },
+        {
+          "epoch": 26,
+          "normalized_entropy": 0.7528743743896484
+        },
+        {
+          "epoch": 27,
+          "normalized_entropy": 0.7449480552931089
+        },
+        {
+          "epoch": 28,
+          "normalized_entropy": 0.7509902731792347
+        },
+        {
+          "epoch": 29,
+          "normalized_entropy": 0.748846859545321
+        },
+        {
+          "epoch": 30,
+          "normalized_entropy": 0.7521871344463246
+        }
+      ],
+      "diversity_traj": [
+        {
+          "epoch": 1,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 2,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 3,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 4,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 5,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 6,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 7,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 8,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 9,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 10,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 11,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 12,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 13,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 14,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 15,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 16,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 17,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 18,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 19,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 20,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 21,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 22,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 23,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 24,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 25,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 26,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 27,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 28,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 29,
+          "head_diversity": 0.0
+        },
+        {
+          "epoch": 30,
+          "head_diversity": 0.0
+        }
+      ]
+    }
+  ]
+}

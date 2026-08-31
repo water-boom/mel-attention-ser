@@ -1,0 +1,24 @@
+name: dl
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - pytest
+  - jupyter
+  - pip:
+      - torch
+      - torchaudio
+      - pyworld
+      - streamlit
+      - transformers

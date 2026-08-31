@@ -1,0 +1,53 @@
+# Mel-Spectrogram Attention SER Configuration (v2.0)
+project_name: "mel-attention-ser"
+seed: 42
+
+# Data & Spectrogram Frontend
+data:
+  raw_data_dir: "D:/learn/hdu_class/AI_Introduction/Mood2Voice/speech-emotion-recognition-ravdess-data/speech-emotion-recognition-ravdess-data"
+  cache_dir: "data/cache"
+  sample_rate: 16000
+  n_fft: 1024
+  win_length: 1024
+  hop_length: 256
+  n_mels: 128
+  f_min: 0.0
+  f_max: 8000.0
+  target_frames: 300  # ~4.8 seconds
+  delta_order: 2      # static + delta + delta-delta (3 channels)
+
+# Training Hyperparameters
+train:
+  batch_size: 32
+  num_workers: 0
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  max_epochs: 30
+  patience: 8
+  grad_clip: 1.0
+  scheduler: "cosine" # cosine annealing
+  min_lr: 0.000001
+
+# Evaluation Protocol
+eval:
+  n_splits: 5
+  stratify_by: "emotion"
+  group_by: "actor"
+  folds_path: "configs/folds.json"
+  primary_metric: "macro_f1"
+
+# Model Zoo Selection
+models:
+  - "cnn_base"
+  - "cnn_se"
+  - "cnn_coord"
+  - "cnn_mhap"
+  - "cnn_asp"
+  # - "w2v2_mhap"  # Optional SSL Foundation anchor
+
+# Causal & Dynamics Analysis
+analysis:
+  entropy_threshold: 0.40
+  masking_top_k: [0.1, 0.2, 0.3, 0.5]
+  priors_path: "configs/acoustic_priors.json"
+  output_dir: "results"

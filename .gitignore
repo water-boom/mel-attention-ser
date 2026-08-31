@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Heavy Raw Data & Feature Caches (Pre-extracted numpy tensors)
+data/raw/
+data/cache/
+data/cache/*
+*.npy
+*.wav
+*.mp3
+
+# Checkpoints (Exclude large .pt weights, keep norm stats)
+results/checkpoints/*.pt
+!results/checkpoints/norm_stats.pt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
