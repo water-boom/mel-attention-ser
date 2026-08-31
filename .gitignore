@@ -33,3 +33,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# CI workflows (added manually via GitHub web UI when needed)
+.github/
