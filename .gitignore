@@ -21,8 +21,8 @@ data/cache/*
 *.wav
 *.mp3
 
-# Checkpoints (Exclude large .pt weights, keep norm stats)
-results/checkpoints/*.pt
+# Checkpoints (Lightweight pretrained weights for out-of-the-box demo)
+!results/checkpoints/*.pt
 !results/checkpoints/norm_stats.pt
 
 # OS / IDE
