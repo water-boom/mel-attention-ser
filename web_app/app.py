@@ -137,9 +137,9 @@ def main():
                 format_func=lambda x: f"{EMOTION_EMOJIS[x]} 真实标签: {EMOTION_NAMES[x].upper()} ({priors.get(str(x), {}).get('description', '')})",
                 index=0,
             )
-            # Find matching sample from test data
-            data_dir = "D:/learn/hdu_class/AI_Introduction/Mood2Voice/speech-emotion-recognition-ravdess-data/speech-emotion-recognition-ravdess-data"
+            # Find matching sample from test data (RAVDESS root, portable)
             import glob
+            data_dir = os.environ.get("RAVDESS_ROOT", "data/raw")
             sample_candidates = glob.glob(os.path.join(data_dir, f"**/*-0{demo_emotion+1:01d}-*.wav"), recursive=True)
             if sample_candidates:
                 sample_path = sample_candidates[0]

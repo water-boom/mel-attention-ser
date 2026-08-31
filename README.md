@@ -84,12 +84,24 @@ flowchart LR
 
 ### 1. 环境准备
 ```bash
-git clone https://github.com/your-username/mel-attention-ser.git
+git clone https://github.com/water-boom/mel-attention-ser.git
 cd mel-attention-ser
 
 # 安装纯 Python 科学计算依赖 (零 C++ 编译)
 pip install -r requirements.txt
 ```
+
+> **数据集**：默认使用 [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)（CC BY-NC-SA 4.0，**非商业**授权，请勿在仓库内分发音频文件）。
+> 把音频放到 `data/raw/`（数据根下即 `Actor_01/…Actor_24/`），或通过环境变量/参数指定你自己的数据根目录：
+> ```bash
+> # 方式 A：把 RAVDESS 数据根指向本地路径
+> export RAVDESS_ROOT="D:/path/to/your/ravdess-root"
+> python scripts/run_5fold.py
+>
+> # 方式 B：命令行临时指定
+> python scripts/run_5fold.py --data_dir "D:/path/to/your/ravdess-root"
+> ```
+> 仓库内的 `configs/folds.json` 存的是**相对数据根的路径**（`Actor_XX/xxx.wav`），加载时会自动与你的数据根拼接，因此无需修改任何本地绝对路径即可复现。
 
 ### 2. 运行自动化单元测试
 ```bash

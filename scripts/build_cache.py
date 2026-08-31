@@ -18,6 +18,25 @@ from src.data.frontend import AudioFrontend
 from src.data.dataset import load_audio_file
 
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+
+def resolve_data_dir(value: str) -> str:
+    """Resolve a data-dir value into an absolute path.
+
+    Supports: absolute path, path relative to the repo root, and the
+    ``${VAR:-default}`` env-var form (so no local absolute path needs to be
+    hardcoded in the repo).
+    """
+    if value.startswith("${") and ":-" in value and value.endswith("}"):
+        inner = value[2:-1]
+        var, _, default = inner.partition(":-")
+        value = os.environ.get(var, default)
+    value = os.path.expanduser(value)
+    p = Path(value)
+    return str(p if p.is_absolute() else (PROJECT_ROOT / p))
+
+
 def main():
     parser = argparse.ArgumentParser(description="Pre-extract Log-Mel features to cache.")
     parser.add_argument("--config", type=str, default="configs/config.yaml")
@@ -28,7 +47,7 @@ def main():
     with open(args.config, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
 
-    data_dir = args.data_dir or cfg["data"]["raw_data_dir"]
+    data_dir = resolve_data_dir(args.data_dir or cfg["data"]["raw_data_dir"])
     cache_dir = args.cache_dir or cfg["data"]["cache_dir"]
     os.makedirs(cache_dir, exist_ok=True)
 

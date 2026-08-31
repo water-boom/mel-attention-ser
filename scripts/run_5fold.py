@@ -24,6 +24,25 @@ from src.models.registry import build_model, list_models
 from src.engine.trainer import Trainer, EarlyStopping
 
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+
+def resolve_data_dir(value: str) -> str:
+    """Resolve a data-dir value into an absolute path.
+
+    Supports: absolute path, path relative to the repo root, and the
+    ``${VAR:-default}`` env-var form (so no local absolute path needs to be
+    hardcoded in the repo).
+    """
+    if value.startswith("${") and ":-" in value and value.endswith("}"):
+        inner = value[2:-1]
+        var, _, default = inner.partition(":-")
+        value = os.environ.get(var, default)
+    value = os.path.expanduser(value)
+    p = Path(value)
+    return str(p if p.is_absolute() else (PROJECT_ROOT / p))
+
+
 def main():
     parser = argparse.ArgumentParser(description="Run 5-Fold Cross-Validation.")
     parser.add_argument("--config", type=str, default="configs/config.yaml")
@@ -37,7 +56,7 @@ def main():
     with open(args.config, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
 
-    data_dir = args.data_dir or cfg["data"]["raw_data_dir"]
+    data_dir = resolve_data_dir(args.data_dir or cfg["data"]["raw_data_dir"])
     cache_dir = cfg["data"]["cache_dir"]
     epochs = args.epochs or cfg["train"]["max_epochs"]
     batch_size = args.batch_size or cfg["train"]["batch_size"]
@@ -55,17 +74,29 @@ def main():
     print(f"Models to evaluate: {models_to_run}")
 
     # 1. Collect audio files & build/load splits
+    # folds.json stores paths relative to the RAVDESS data root (portable,
+    # no local absolute paths leak); we join them with data_dir at load time.
     wav_files = glob.glob(os.path.join(data_dir, "**", "*.wav"), recursive=True)
     if not wav_files:
         print(f"Warning: No .wav found in '{data_dir}'. Generating synthetic demo split...")
         wav_files = [f"03-01-{e:02d}-01-01-01-{a:02d}.wav" for a in range(1, 25) for e in range(1, 9)]
 
     splitter = SpeakerSplitter(n_splits=cfg["eval"]["n_splits"], seed=cfg["seed"])
-    folds_path = cfg["eval"]["folds_path"]
+    folds_path = os.path.join(PROJECT_ROOT, cfg["eval"]["folds_path"])
     if os.path.exists(folds_path):
         folds = splitter.load_splits(folds_path)
+        for fold in folds:
+            for key in ("train_files", "val_files"):
+                fold[key] = [
+                    f if os.path.isabs(f) else os.path.join(data_dir, f)
+                    for f in fold[key]
+                ]
     else:
+        # Save splits relative to data_dir so the repo stays portable.
         folds = splitter.create_splits(wav_files)
+        for fold in folds:
+            for key in ("train_files", "val_files"):
+                fold[key] = [os.path.relpath(f, data_dir) for f in fold[key]]
         splitter.save_splits(folds, folds_path)
 
     frontend = AudioFrontend(
